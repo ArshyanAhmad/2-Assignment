@@ -1,0 +1,77 @@
+1. What is the difference between UI and UX? Explain in your own words.
+
+Ans: UI(User Interface) and UX(User Experience) are related but distinct concepts 
+in the field of web and app design.
+
+UI = UI refers to the visual and interactive elements of a digital product, such as buttons,
+     text, images, and forms. It's about how a user interacts with the product and how easy it
+     is for them to navigate and use its features.
+ 
+UX = UX (User Experience) is the overall experience of a person using a product, 
+     including how easy and enjoyable it is to use. It encompasses all aspects of the user's
+     interaction with a product, including branding, design, usability, and function. 
+
+In short, UI is all about the look and feel of the product, while UX is all about how the 
+     product works and how it makes the user feel. 
+
+
+2. What is a frontend developer? Explain the roles and responsibilities in your own words.
+
+Ans: A frontend developer, also known as a client-side developer, is responsible for 
+     the design and implementation of the user-facing part of a website or web application. 
+     They work with technologies such as HTML, CSS, and JavaScript to create the visual layout, 
+     styling, and interactive elements of a website. 
+
+===  The main roles and responsibilities of a frontend developer include:
+
+    1. Designing and implementing the user interface of a website or web application, using HTML,
+       CSS, and JavaScript
+	
+    2. Creating and maintaining the visual layout and style of a website, using CSS frameworks 
+       such as Bootstrap and Foundation	
+
+    3. Implementing interactive elements and functionality on the website, using JavaScript
+       libraries and frameworks such as jQuery and React etc.
+
+
+3. What is a Backend developer? Explain the roles and responsibilities in your own words.
+
+Ans:A backend developer, also known as a server-side developer, is responsible for the
+    server-side of a website or web application. They work with technologies such as 
+    server-side languages (e.g. Python, Ruby, PHP, Java), databases (e.g. MySQL, MongoDB, 
+    SQL Server), and server-side frameworks (e.g. ExpressJS, Ruby on Rails, Laravel) to create
+    and maintain the server-side logic, database management and APIs of a website
+    or web application. 
+
+=== The main roles and responsibilities of a backend developer include:
+
+    1. Designing and implementing the server-side logic of a website or web application using
+       server-side languages and frameworks
+
+    2. Creating and maintaining the database, including designing the schema, writing queries, 
+       and optimizing performance
+
+    3. Building and maintaining APIs to enable communication between the frontend and the backend
+
+    4. Optimizing the website or web application for performance and scalability
+
+
+4. Create Your own github & linkedln accounts. Share the screebshot of both of your accounts 
+   share your profile links of github & linkedln in the solution.
+
+Ans: I am a Beginner: I will improve our github Profile and Linkedln Profile
+
+     1. GitHub link (https://github.com/ArshyanAhmad)
+     2. Linkedln link (https://www.linkedin.com/in/arsh-ahmed-9a58aa257/)
+
+5. Write Your Blog in any Topic
+
+  === In Quora===
+  1. Traveling- link (https://qr.ae/prAVfS)
+
+  2. Ai - link (https://qr.ae/prAxRe)
+
+  3. Book - link (https://qr.ae/prAx70)
+
+
+
